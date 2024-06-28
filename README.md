@@ -35,9 +35,6 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ----
-
-- 📫 How to reach me: Linkdin -> [https://www.linkedin.com/in/hanseob-lee-9655781aa/]
-  
 <!-- 
 ![GitHub followers](https://img.shields.io/github/followers/dominic-devops?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/dominic-devops?style=social)
