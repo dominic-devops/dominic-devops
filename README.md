@@ -1,8 +1,13 @@
-# Hi there, I'm Dominic (AWS Community Builder, AWSKRUG Organizer ) 👋
-
-## About Me (#DevOps #Cloud Solution Architect #Cloud Support Engineer)
-
+# Hi there, I'm Dominic 
 I'm a passionate DevOps engineer with extensive experience in automating and optimizing mission-critical deployments in AWS, GCP, and Azure. I specialize in CI/CD, Infrastructure as Code (IaC), and observability to ensure smooth and efficient software delivery.
+
+- 2022 ~ ING millie's library ::: devops engineer
+- 2022 ~ ING aws community builder ::: cloud-operations builder
+- 2021 ~ 2022 com2us platform ::: cloud system engineer
+- 2019 ~ ING awskurg  ::: beginner group organizer
+- 2019 ~ 2021 megazone cloud ::: cloud support engineer
+  
+## About Me ![DevOps](https://img.shields.io/badge/-DevOps-blue) ![Cloud Solution Architect](https://img.shields.io/badge/-Cloud%20Solution%20Architect-blue) ![Cloud Support Engineer](https://img.shields.io/badge/-Cloud%20Support%20Engineer-blue)
 
 - 🌱 Currently, I am working at Millie's Library, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
 - 📖 I am actively exploring and applying various methodologies to better manage Kubernetes (k8s). Occasionally, I also engage in development tasks.
