@@ -30,6 +30,7 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
+<!-- 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dominic-devops&show_icons=true&theme=radical)
 
@@ -53,5 +54,5 @@ Implementing a comprehensive observability stack using Prometheus, Grafana, and 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ---
-
+-->
 *Dominic*
