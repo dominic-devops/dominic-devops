@@ -1,17 +1,15 @@
-# Hi there, I'm Dominic 👋
+# Hi there, I'm Dominic (AWS Community Builder, AWSKRUG Organizer ) 👋
 
-![GitHub followers](https://img.shields.io/github/followers/dominic-devops?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dominic-devops?style=social)
+## About Me (#DevOps #Cloud Solution Architect #Cloud Support Engineer)
 
-## About Me
 I'm a passionate DevOps engineer with extensive experience in automating and optimizing mission-critical deployments in AWS, GCP, and Azure. I specialize in CI/CD, Infrastructure as Code (IaC), and observability to ensure smooth and efficient software delivery.
 
-- 🔭 I’m currently working on several projects involving DevOps practices and cloud solutions.
-- 🌱 I’m currently learning advanced Kubernetes techniques and enhancing my skills in serverless architectures.
+- 🌱 Currently, I am working at Millie's Library, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
+- 📖 I am actively exploring and applying various methodologies to better manage Kubernetes (k8s). Occasionally, I also engage in development tasks.
+- 🔭 I have recently been giving deep interest and love to projects related to Observability. This helps identify inefficiencies and bottlenecks in the application and breaks the analyzed problem into smaller tasks to share the pain with developers. (joke) ::Devil::
 - 👯 I’m looking to collaborate on open-source DevOps tools and cloud automation projects.
 - 💬 Ask me about anything related to DevOps, AWS, GCP, Azure, CI/CD, IaC, and observability.
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
-
+  
 ## My Skills
 
 ### Technologies
@@ -30,7 +28,12 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
+- 📫 How to reach me: Linkdin -> [https://www.linkedin.com/in/hanseob-lee-9655781aa/]
+  
 <!-- 
+![GitHub followers](https://img.shields.io/github/followers/dominic-devops?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dominic-devops?style=social)
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dominic-devops&show_icons=true&theme=radical)
 
@@ -55,4 +58,3 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 ---
 -->
-*Dominic*
