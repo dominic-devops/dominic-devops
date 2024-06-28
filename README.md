@@ -1,4 +1,4 @@
-# Hi there, I'm Dominic 
+# Hi there, I'm Dominic 🦊
 I'm a passionate DevOps engineer with extensive experience in automating and optimizing mission-critical deployments in AWS, GCP, and Azure. I specialize in CI/CD, Infrastructure as Code (IaC), and observability to ensure smooth and efficient software delivery.
 
 - 2022 ~ ING millie's library ::: devops engineer
