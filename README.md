@@ -17,9 +17,8 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 - 💬 Ask me about anything related to DevOps, AWS, GCP, Azure, CI/CD, IaC, and observability.
   
 ## My Skills
-
 ### Technologies
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![3/10](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-lightgrey
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-2E2E2E?style=flat&logo=argo&logoColor=white)
