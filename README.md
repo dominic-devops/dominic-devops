@@ -12,7 +12,7 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 
 - 🌱 Currently, I am working at Millie's Library, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
 - 📖 I am actively exploring and applying various methodologies to better manage Kubernetes (k8s). Occasionally, I also engage in development tasks.
-- 🔭 I have recently been giving deep interest and love to projects related to Observability. This helps identify inefficiencies and bottlenecks in the application and breaks the analyzed problem into smaller tasks to share the pain with developers. (joke) ::Devil::
+- 🔭 I have recently been giving deep interest and love to projects related to Observability. This helps identify inefficiencies and bottlenecks in the application and breaks the analyzed problem into smaller tasks to share the pain with developers. 😈(maybe joke)😈
 - 👯 I’m looking to collaborate on open-source DevOps tools and cloud automation projects.
 - 💬 Ask me about anything related to DevOps, AWS, GCP, Azure, CI/CD, IaC, and observability.
   
