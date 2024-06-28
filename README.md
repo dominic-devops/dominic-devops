@@ -1,7 +1,7 @@
 # Hi there, I'm Dominic 🦊
 I'm a passionate DevOps engineer with extensive experience in automating and optimizing mission-critical deployments in AWS, GCP, and Azure. I specialize in CI/CD, Infrastructure as Code (IaC), and observability to ensure smooth and efficient software delivery.
 
-- 2022 ~ ING Bookclub-Millie ::: devops engineer
+- 2022 ~ ING bookclub millie ::: devops engineer
 - 2022 ~ ING aws community builder ::: cloud-operations builder
 - 2021 ~ 2022 com2us platform ::: cloud system engineer
 - 2019 ~ ING awskurg  ::: beginner group organizer
@@ -10,7 +10,7 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 ## About Me 
 ![DevOps](https://img.shields.io/badge/-DevOps-8A2BE2) ![Cloud Solution Architect](https://img.shields.io/badge/-Cloud%20Solution%20Architect-FF9900) ![Cloud Support Engineer](https://img.shields.io/badge/-Cloud%20Support%20Engineer-gray)
 
-- 🌱 Currently, I am working at Bookclub-Millie, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
+- 🌱 Currently, I am working at bookclub millie, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
 - 📖 I am actively exploring and applying various methodologies to better manage Kubernetes (k8s). Occasionally, I also engage in development tasks.
 - 🔭 I have recently been giving deep interest and love to projects related to Observability. This helps identify inefficiencies and bottlenecks in the application and breaks the analyzed problem into smaller tasks to share the pain with developers. 😈(maybe joke)😈
 - 👯 I’m looking to collaborate on open-source DevOps tools and cloud automation projects.
