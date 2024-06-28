@@ -18,7 +18,7 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
   
 ## My Skills
 ### Technologies
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![3/10](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-lightgrey
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![3/10](https://img.shields.io/badge/Skill-3%2F10-lightgrey?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-2E2E2E?style=flat&logo=argo&logoColor=white)
@@ -26,7 +26,6 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
