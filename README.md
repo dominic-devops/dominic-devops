@@ -7,7 +7,7 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 - 2019 ~ ING awskurg  ::: beginner group organizer
 - 2019 ~ 2021 megazone cloud ::: cloud support engineer
   
-## About Me ![DevOps](https://img.shields.io/badge/-DevOps-blue) ![Cloud Solution Architect](https://img.shields.io/badge/-Cloud%20Solution%20Architect-blue) ![Cloud Support Engineer](https://img.shields.io/badge/-Cloud%20Support%20Engineer-blue)
+## About Me ![DevOps](https://img.shields.io/badge/-DevOps-8A2BE2) ![Cloud Solution Architect](https://img.shields.io/badge/-Cloud%20Solution%20Architect-FF9900) ![Cloud Support Engineer](https://img.shields.io/badge/-Cloud%20Support%20Engineer-gray)
 
 - 🌱 Currently, I am working at Millie's Library, a book subscription platform, where I focus on improving the deployment experience for my colleagues and enhancing user experience for our customers through DevOps practices.
 - 📖 I am actively exploring and applying various methodologies to better manage Kubernetes (k8s). Occasionally, I also engage in development tasks.
