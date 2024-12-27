@@ -17,7 +17,6 @@ I'm a passionate DevOps engineer with extensive experience in automating and opt
 - 💬 Ask me about anything related to DevOps, AWS, GCP, Azure, CI/CD, IaC, and observability.
   
 ## My Skills
-### Technologies
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Profiling](https://img.shields.io/badge/-Profiling-4EAA25?style=flat&logo=profiling&logoColor=white)
